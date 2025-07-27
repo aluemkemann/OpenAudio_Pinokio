@@ -1,4 +1,5 @@
-# fish
+# OpenAudio
 
-A pinokio script for https://github.com/fishaudio/fish-speech
+A Pinokio install script for https://github.com/aluemkemann/OpenAudio
+
 
